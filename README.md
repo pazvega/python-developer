@@ -39,4 +39,7 @@ Once you have completed the test please upload your application and answers to g
 ### How to complete this challenge
 * Fork this repo on GitHub
 * Complete the design and code as defined to the best of your abilities
-* Complete your work in your own github repo and send the results and the Questions to us at people@aitaca.io
+* For each step given in the assesment, one commit should be done
+* Complete your work in your own github repo (public), named aitaca-python-developer
+* The branch should be named "aitaca"
+* Send the link of the repo and the questions to us at people@aitaca.io
