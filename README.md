@@ -15,6 +15,7 @@ Once you have completed the test please upload your application and answers to g
 ### Requirements:
 
 * Should programmed in Python
+* Code should be well docummented. Example PEP8 standard (https://peps.python.org/pep-0008/)
 * Quality of code over quantity: execution time, cleanliness and documentation.
 
 ***
