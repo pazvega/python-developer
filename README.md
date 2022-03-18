@@ -5,6 +5,9 @@
 The technical test will involve creating an application and answering a few questions. 
 We recommend scheduling at least 4 hours but you can take as long as you want.
 
+$ git clone https://github.com/pazvega/python-developer
+
+
 Once you have completed the test please upload your application and answers to github.
 
 ***
@@ -13,7 +16,6 @@ Once you have completed the test please upload your application and answers to g
 
 * Should programmed in Python
 * Quality of code over quantity: execution time, cleanliness and documentation.
-
 
 ***
 
